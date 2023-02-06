@@ -10,4 +10,4 @@ Your feedback is gratefully received.
 ## changelog
 
 ### v1.0 - First Release
-_Coming soon!_
+_6th February 2023_
