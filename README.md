@@ -11,3 +11,14 @@ Your feedback is gratefully received.
 
 ### v1.0 - First Release
 _6th February 2023_
+
+### v1.1 - New Features and Fixes
+_7th February 2023_
+* Added 'Account' button to update accounts details, including trainer level and referral code
+* Fixed small layout and wording issues
+
+### v1.2 - New Features and Fixes
+_8th February 2023_
+* Fixed issue with Safe Links and other link checking services using up single access links
+* Clarified inconsistent wording about verifying/activating account
+* Added filter option to display referral codes instead of invite codes
