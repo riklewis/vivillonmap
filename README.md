@@ -22,3 +22,9 @@ _8th February 2023_
 * Fixed issue with Safe Links and other link checking services using up single access links
 * Clarified inconsistent wording about verifying/activating account
 * Added filter option to display referral codes instead of invite codes
+
+### v1.3 - New Features and Fixes
+_11th February 2023_
+* Configured SPF and DKIM to improve email deliverability
+* Added verified symbol next to trainer name in welcome message
+* Added 'Support' widget powered by [Ko-fi](https://ko-fi.com/riklewis)
