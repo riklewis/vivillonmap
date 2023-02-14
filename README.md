@@ -28,3 +28,8 @@ _11th February 2023_
 * Configured SPF and DKIM to improve email deliverability
 * Added verified symbol next to trainer name in welcome message
 * Added 'Support' widget powered by [Ko-fi](https://ko-fi.com/riklewis)
+
+### v1.4 - New Features and Fixes
+_13th February 2023_
+* Added account verification workflow
+* Added account status to filter options
