@@ -33,3 +33,8 @@ _11th February 2023_
 _13th February 2023_
 * Added account verification workflow
 * Added account status to filter options
+
+### v1.5 - New Features and Fixes
+_19th February 2023_
+* Added option to hide account from search results
+* Added 'Load more' results button
