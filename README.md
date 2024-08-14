@@ -38,3 +38,9 @@ _13th February 2023_
 _19th February 2023_
 * Added option to hide account from search results
 * Added 'Load more' results button
+
+### v1.6 - Fixes
+_14th August 2024_
+* Changed QR codes from Google to QuickChart
+* Fixed spinners keep on spinning
+* Updated Twitter/X logo
